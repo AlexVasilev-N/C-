@@ -1,0 +1,5 @@
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/HomeWork/Work1/Task8/obj/Debug/net6.0/Task8.csproj.AssemblyReference.cache
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/HomeWork/Work1/Task8/obj/Debug/net6.0/Task8.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/HomeWork/Work1/Task8/obj/Debug/net6.0/Task8.AssemblyInfoInputs.cache
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/HomeWork/Work1/Task8/obj/Debug/net6.0/Task8.AssemblyInfo.cs
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/HomeWork/Work1/Task8/obj/Debug/net6.0/Task8.csproj.CoreCompileInputs.cache

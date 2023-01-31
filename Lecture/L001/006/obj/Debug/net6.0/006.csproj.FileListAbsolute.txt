@@ -1,0 +1,15 @@
+C:\Users\Алекс\Desktop\Geek\CSharp\Lecture\L001\006\obj\Debug\net6.0\006.csproj.AssemblyReference.cache
+C:\Users\Алекс\Desktop\Geek\CSharp\Lecture\L001\006\obj\Debug\net6.0\006.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Алекс\Desktop\Geek\CSharp\Lecture\L001\006\obj\Debug\net6.0\006.AssemblyInfoInputs.cache
+C:\Users\Алекс\Desktop\Geek\CSharp\Lecture\L001\006\obj\Debug\net6.0\006.AssemblyInfo.cs
+C:\Users\Алекс\Desktop\Geek\CSharp\Lecture\L001\006\obj\Debug\net6.0\006.csproj.CoreCompileInputs.cache
+C:\Users\Алекс\Desktop\Geek\CSharp\Lecture\L001\006\bin\Debug\net6.0\006.exe
+C:\Users\Алекс\Desktop\Geek\CSharp\Lecture\L001\006\bin\Debug\net6.0\006.deps.json
+C:\Users\Алекс\Desktop\Geek\CSharp\Lecture\L001\006\bin\Debug\net6.0\006.runtimeconfig.json
+C:\Users\Алекс\Desktop\Geek\CSharp\Lecture\L001\006\bin\Debug\net6.0\006.dll
+C:\Users\Алекс\Desktop\Geek\CSharp\Lecture\L001\006\bin\Debug\net6.0\006.pdb
+C:\Users\Алекс\Desktop\Geek\CSharp\Lecture\L001\006\obj\Debug\net6.0\006.dll
+C:\Users\Алекс\Desktop\Geek\CSharp\Lecture\L001\006\obj\Debug\net6.0\refint\006.dll
+C:\Users\Алекс\Desktop\Geek\CSharp\Lecture\L001\006\obj\Debug\net6.0\006.pdb
+C:\Users\Алекс\Desktop\Geek\CSharp\Lecture\L001\006\obj\Debug\net6.0\006.genruntimeconfig.cache
+C:\Users\Алекс\Desktop\Geek\CSharp\Lecture\L001\006\obj\Debug\net6.0\ref\006.dll

@@ -1,0 +1,15 @@
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/Lecture/L004/Task_006/bin/Debug/net7.0/Task_006
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/Lecture/L004/Task_006/bin/Debug/net7.0/Task_006.deps.json
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/Lecture/L004/Task_006/bin/Debug/net7.0/Task_006.runtimeconfig.json
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/Lecture/L004/Task_006/bin/Debug/net7.0/Task_006.dll
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/Lecture/L004/Task_006/bin/Debug/net7.0/Task_006.pdb
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/Lecture/L004/Task_006/obj/Debug/net7.0/Task_006.csproj.AssemblyReference.cache
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/Lecture/L004/Task_006/obj/Debug/net7.0/Task_006.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/Lecture/L004/Task_006/obj/Debug/net7.0/Task_006.AssemblyInfoInputs.cache
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/Lecture/L004/Task_006/obj/Debug/net7.0/Task_006.AssemblyInfo.cs
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/Lecture/L004/Task_006/obj/Debug/net7.0/Task_006.csproj.CoreCompileInputs.cache
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/Lecture/L004/Task_006/obj/Debug/net7.0/Task_006.dll
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/Lecture/L004/Task_006/obj/Debug/net7.0/refint/Task_006.dll
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/Lecture/L004/Task_006/obj/Debug/net7.0/Task_006.pdb
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/Lecture/L004/Task_006/obj/Debug/net7.0/Task_006.genruntimeconfig.cache
+/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/Lecture/L004/Task_006/obj/Debug/net7.0/ref/Task_006.dll
