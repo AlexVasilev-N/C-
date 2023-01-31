@@ -19,3 +19,11 @@ else
 }    
     
 
+int EvenNumbers ( int a) 
+{
+    if ( a % 2 !=0) return a ;
+    else return a ;
+}
+
+
+EvenNumbers(4);
