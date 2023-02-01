@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/HomeWork/Work1/Task8/Task8.csproj": {}
+    "/Users/avasilev/Desktop/Учеба/CSharp/HomeWork/Work1/Task8/Task8.csproj": {}
   },
   "projects": {
-    "/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/HomeWork/Work1/Task8/Task8.csproj": {
+    "/Users/avasilev/Desktop/Учеба/CSharp/HomeWork/Work1/Task8/Task8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/HomeWork/Work1/Task8/Task8.csproj",
+        "projectUniqueName": "/Users/avasilev/Desktop/Учеба/CSharp/HomeWork/Work1/Task8/Task8.csproj",
         "projectName": "Task8",
-        "projectPath": "/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/HomeWork/Work1/Task8/Task8.csproj",
+        "projectPath": "/Users/avasilev/Desktop/Учеба/CSharp/HomeWork/Work1/Task8/Task8.csproj",
         "packagesPath": "/Users/avasilev/.nuget/packages/",
-        "outputPath": "/Users/avasilev/Desktop/Alex/Учеба/Geek/CSharp/HomeWork/Work1/Task8/obj/",
+        "outputPath": "/Users/avasilev/Desktop/Учеба/CSharp/HomeWork/Work1/Task8/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/avasilev/.nuget/NuGet/NuGet.Config"

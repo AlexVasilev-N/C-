@@ -1,3 +1,4 @@
+
 void Method2 (string msg);
 {
 	Console.WriteLine (msg);

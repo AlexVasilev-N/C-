@@ -1,0 +1,15 @@
+/Users/avasilev/Desktop/Учеба/CSharp/Practice/Task_004/bin/Debug/net7.0/Task_004
+/Users/avasilev/Desktop/Учеба/CSharp/Practice/Task_004/bin/Debug/net7.0/Task_004.deps.json
+/Users/avasilev/Desktop/Учеба/CSharp/Practice/Task_004/bin/Debug/net7.0/Task_004.runtimeconfig.json
+/Users/avasilev/Desktop/Учеба/CSharp/Practice/Task_004/bin/Debug/net7.0/Task_004.dll
+/Users/avasilev/Desktop/Учеба/CSharp/Practice/Task_004/bin/Debug/net7.0/Task_004.pdb
+/Users/avasilev/Desktop/Учеба/CSharp/Practice/Task_004/obj/Debug/net7.0/Task_004.csproj.AssemblyReference.cache
+/Users/avasilev/Desktop/Учеба/CSharp/Practice/Task_004/obj/Debug/net7.0/Task_004.GeneratedMSBuildEditorConfig.editorconfig
+/Users/avasilev/Desktop/Учеба/CSharp/Practice/Task_004/obj/Debug/net7.0/Task_004.AssemblyInfoInputs.cache
+/Users/avasilev/Desktop/Учеба/CSharp/Practice/Task_004/obj/Debug/net7.0/Task_004.AssemblyInfo.cs
+/Users/avasilev/Desktop/Учеба/CSharp/Practice/Task_004/obj/Debug/net7.0/Task_004.csproj.CoreCompileInputs.cache
+/Users/avasilev/Desktop/Учеба/CSharp/Practice/Task_004/obj/Debug/net7.0/Task_004.dll
+/Users/avasilev/Desktop/Учеба/CSharp/Practice/Task_004/obj/Debug/net7.0/refint/Task_004.dll
+/Users/avasilev/Desktop/Учеба/CSharp/Practice/Task_004/obj/Debug/net7.0/Task_004.pdb
+/Users/avasilev/Desktop/Учеба/CSharp/Practice/Task_004/obj/Debug/net7.0/Task_004.genruntimeconfig.cache
+/Users/avasilev/Desktop/Учеба/CSharp/Practice/Task_004/obj/Debug/net7.0/ref/Task_004.dll
